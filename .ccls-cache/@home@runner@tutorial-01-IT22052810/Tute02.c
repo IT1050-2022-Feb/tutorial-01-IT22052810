@@ -35,5 +35,5 @@ int main() {
 	}
 	printf("Amount to be paid : %d",amount);//print Amount to be paid for a rented vehicle
 	return 0;
-  
+  return 0;
 }
